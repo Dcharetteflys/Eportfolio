@@ -39,11 +39,6 @@ I believe this enhancement successfully addressed the objectives established for
 
 ! [Example Photo of the dashboard](CS-340.png) 
 
-
-
-
-
-
-
 ## **Repository Link**
-[CS-340](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-340.zip)
+[CS-340 Enhanced](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-340.zip)
+[CS-340 Original](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS340_original.zip)
