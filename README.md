@@ -36,6 +36,7 @@ The artifact selected for the databases category was originally developed in CS-
 I chose this artifact because it demonstrates my understanding of backend database development and how programming languages like Python interact with stored data. During the enhancement process, I added features such as count operations and the ability to insert, update, and delete multiple records at once. These improvements increased the efficiency and overall functionality of the application while showcasing my ability to build upon existing code.
 
 I believe this enhancement successfully addressed the objectives established for this milestone. Expanding the artifact to support count operations and batch processing capabilities increased both the sophistication and practicality of the application. At this time, I do not anticipate making any changes to my outcome coverage plans, as the completed enhancements adequately demonstrate the intended learning outcomes. This experience deepened my understanding of both basic and advanced database operations. While the original CRUD functions created a fully functional database application, the enhancements demonstrated how even small changes can significantly improve a system's usability and performance. It reinforced the importance of continually refining software to create more effective solutions.
+
 ! [Example Photo of the dashboard](CS-340.png) 
 
 ## **Repository Link**
