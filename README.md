@@ -30,7 +30,7 @@ The artifacts presented for the portfolio are introductions to my work for softw
 
 
 ## **Enhancement Three: Databases**
-####
+
 The artifact selected for the databases category was originally developed in CS-340 and completed in summer of 2025. It is a Python application that uses PyMongo as the backend for an interactive database designed for animal rescue organizations. The original version implemented basic CRUD (create, read, update, and delete) operations, while the enhanced version expanded its functionality with additional database features.
 
 I chose this artifact because it demonstrates my understanding of backend database development and how programming languages like Python interact with stored data. During the enhancement process, I added features such as count operations and the ability to insert, update, and delete multiple records at once. These improvements increased the efficiency and overall functionality of the application while showcasing my ability to build upon existing code.
