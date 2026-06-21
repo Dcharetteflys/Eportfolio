@@ -17,12 +17,12 @@
 ## **Enhancement One: Software Design and Engineering**
 
 ## **Repository Link**
-
+[CS-360](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-360.zip)
 
 ## **Enhancement Two: Algorithms and Data Structures**
 
 ## **Repository Link**
-
+[cs-330](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-330.zip)
 
 
 ## **Enhancement Three: Databases**
