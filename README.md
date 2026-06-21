@@ -38,6 +38,12 @@ I chose this artifact because it demonstrates my understanding of backend databa
 I believe this enhancement successfully addressed the objectives established for this milestone. Expanding the artifact to support count operations and batch processing capabilities increased both the sophistication and practicality of the application. At this time, I do not anticipate making any changes to my outcome coverage plans, as the completed enhancements adequately demonstrate the intended learning outcomes. This experience deepened my understanding of both basic and advanced database operations. While the original CRUD functions created a fully functional database application, the enhancements demonstrated how even small changes can significantly improve a system's usability and performance. It reinforced the importance of continually refining software to create more effective solutions.
 
 ! [Example Photo of the dashboard](CS-340.png) 
+<img width="928" height="649" alt="image" src="https://github.com/user-attachments/assets/401fdf63-a23b-46a5-b0bc-56d78df2bba4" />
+
+
+
+
+
 
 ## **Repository Link**
 [CS-340](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-340.zip)
